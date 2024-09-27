@@ -46,6 +46,7 @@ The project consists of the following main components:
 ## Search Functionality
 
 The search feature uses MongoDB's aggregation pipeline to perform text searches across multiple fields (technologies, description, and profile). Results are sorted by experience level and limited to 5 entries.
+
 Send a GET request to `/posts/{searchText}`, replacing `{searchText}` with your search query.
 
 ## Update Functionality
