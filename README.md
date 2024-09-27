@@ -1,4 +1,4 @@
-# Simple Spring Boot MongoDB Job Listing Project
+# Spring Boot MongoDB Job Listing Project
 
 This project is a RESTful API for a job listing application built with Spring Boot and MongoDB. It allows users to create, retrieve, update, and delete job posts, as well as search for posts based on specific criteria.
 
